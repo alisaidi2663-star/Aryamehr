@@ -1,0 +1,6 @@
+{
+  "name": "آلبوم آریامهر",
+  "description": "An interactive and professional musical album creator, builder, and visualizer featuring Web Audio synthesized soundscapes, Gemini AI-powered bio and track generators, local library persistence, JSON export, and instant URL-based sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
